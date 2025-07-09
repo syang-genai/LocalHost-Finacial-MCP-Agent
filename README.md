@@ -1,3 +1,17 @@
+Enviroment
+---
+* uv init agent
+* cd agent
+* uv venv
+* source .venv/bin/activate
+* uv add google-adk litellm
+* uv add vllm
+
+Google ADK
+---
+Start Agent: uv run adk web --port 8080
+
+
 Local vLLM Host LLM Model Debug
 ---
 1. Load local vLLM host LLM model through LiteLlm.
