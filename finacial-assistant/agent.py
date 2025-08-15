@@ -32,7 +32,7 @@ root_agent = LlmAgent(
     description=(
         "Navigate the world of finance with confidence. This agent is designed to be your all-in-one partner for managing and understanding your money. From real-time market updates to complex financial analysis, it provides the tools and insights you need to make informed decisions."
     )
-    instruction=prompt.FINANCIAL_COORDINATOR_PROMPT,
+    instruction=prompt.FINANCIAL_ASSISTANT_PROMPT,
     output_key="assistant_output",
     tools=[news_tool]
 )
