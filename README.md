@@ -1,2 +1,2 @@
-# LocalHost-Finacial-MCP-Agent
-LocalHost-Finacial-MCP-Agent
+# LocalHost-Financial-Agent
+LocalHost-Financial-MCP-Agent
